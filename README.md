@@ -1,4 +1,4 @@
-# DATABASE FOR FINANCIAL INFORMATION MICROSERVICES OF UNCADEMY
+# UNCADEMY FINANCIAL INFORMATION DATABASE
 
 Configuration to mount the database in postgresql necessary for the financial information microservice.
 
